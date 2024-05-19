@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "changlinlni/example-zokka-package",
+    "name": "example-zokka-author/example-zokka-package",
     "summary": "An example package!",
     "license": "BSD-3-Clause",
     "version": "1.0.0",
